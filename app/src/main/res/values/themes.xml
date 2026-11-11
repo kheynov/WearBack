@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.WearBack.Action" parent="android:style/Theme.NoDisplay" />
+</resources>

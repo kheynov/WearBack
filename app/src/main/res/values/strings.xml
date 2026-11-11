@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WearBack</string>
+    <string name="service_description">Performs one system Back action when you launch WearBack using your watch button. Does not read screen content. Enable this service manually in your watch Accessibility settings, then assign WearBack to the button. The app has no settings screen.</string>
+    <string name="back_failed">Unable to perform Back.</string>
+</resources>

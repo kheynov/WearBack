@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WearBack</string>
+    <string name="service_description">Выполняет один системный «Назад» при запуске WearBack кнопкой часов. Не читает содержимое экрана. Включите службу вручную в системных специальных возможностях часов, затем назначьте WearBack на кнопку. У приложения нет экрана настроек.</string>
+    <string name="back_failed">Не удалось выполнить «Назад».</string>
+</resources>

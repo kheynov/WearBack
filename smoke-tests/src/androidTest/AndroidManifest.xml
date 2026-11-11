@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <!-- Lives only in the test APK, never in the personal WearBack APK. -->
+        <activity
+            android:name="ru.kheynov.wearback.fixture.BackStackFixtureActivity"
+            android:exported="true"
+            android:theme="@android:style/Theme.DeviceDefault.NoActionBar" />
+    </application>
+</manifest>

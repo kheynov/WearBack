@@ -1,0 +1,53 @@
+# Gradle / Kotlin caches and build outputs in all modules
+.gradle/
+.kotlin/
+build/
+out/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio / IntelliJ local project state
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Local SDK configuration and profiling captures
+local.properties
+captures/
+*.hprof
+
+# Generated Android packages and bytecode
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Private signing keys and local signing configuration
+*.jks
+*.keystore
+*.p12
+*.pfx
+keystore.properties
+key.properties
+signing.properties
+
+# Local environment files; keep safe templates versionable
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Logs and editor temporary files
+*.log
+*.swp
+*.swo
+*~
+
+# macOS / Windows metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Do not ignore Gradle wrapper files, build scripts, or version catalogs.

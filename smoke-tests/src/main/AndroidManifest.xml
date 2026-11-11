@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <queries>
+        <package android:name="ru.kheynov.wearback" />
+    </queries>
+    <application android:allowBackup="false" android:label="WearBack test host" />
+</manifest>
